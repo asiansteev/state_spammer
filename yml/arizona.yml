@@ -1,0 +1,16 @@
+url: 'http://www.arizonaguide.com/request-a-visitors-guide'
+form_id: 'new_visitors_guide_request'
+success: "You have successfully requested a Visitor's Guide."
+state_form: 'abbr'
+country_form: 'full'
+check: 'visitors_guide_request[print]'
+attrs:
+  first_name: 'visitors_guide_request[first_name]'
+  last_name: 'visitors_guide_request[last_name]'
+  email: 'visitors_guide_request[email]'
+  address: 'visitors_guide_request[address_line_one]'
+  address2: 'visitors_guide_request[address_line_two]'
+  city: 'visitors_guide_request[city]'
+  state: 'visitors_guide_request[state]'
+  zip: 'visitors_guide_request[zip_code]'
+  country: 'visitors_guide_request[country]'
