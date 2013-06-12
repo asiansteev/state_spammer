@@ -1,0 +1,20 @@
+url: 'http://www.visitcalifornia.com/Visitors-Guide/Step-2/'
+form_by: 'action'
+form: '/Visitors-Guide/Step-2/'
+success: "Thanks for your order!"
+state_form: 'full'
+country_form: 'full'
+attrs:
+  first_name: 'first_name'
+  last_name: 'last_name'
+  email: 'email'
+  address: 'add1'
+  address2: 'add2'
+  city: 'city'
+  state: 'state'
+  zip: 'zip'
+  country: 'country'
+  phone: 'phone'
+other:
+  planning_travel: 'Yes'
+  student: 'No'

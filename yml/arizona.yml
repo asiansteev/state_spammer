@@ -1,5 +1,6 @@
 url: 'http://www.arizonaguide.com/request-a-visitors-guide'
-form_id: 'new_visitors_guide_request'
+form_by: 'id'
+form: 'new_visitors_guide_request'
 success: "You have successfully requested a Visitor's Guide."
 state_form: 'abbr'
 country_form: 'full'

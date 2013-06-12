@@ -1,0 +1,17 @@
+url: 'http://www.arkansas.com/travel-tools/vacation-kit'
+form_by: 'id'
+form: 'aspnetForm'
+success: "Thank you for your interest in our great state!"
+state_form: 'full'
+country_form: 'full'
+check: 'ctl00$InteriorMasterContent$InteriorMasterServerForm$MainContent$pc$ctl02$Vacation'
+attrs:
+  first_name: 'ctl00$InteriorMasterContent$InteriorMasterServerForm$MainContent$pc$ctl02$first_name'
+  last_name: 'ctl00$InteriorMasterContent$InteriorMasterServerForm$MainContent$pc$ctl02$last_name'
+  email: 'ctl00$InteriorMasterContent$InteriorMasterServerForm$MainContent$pc$ctl02$email'
+  address: 'ctl00$InteriorMasterContent$InteriorMasterServerForm$MainContent$pc$ctl02$address'
+  address2: 'ctl00$InteriorMasterContent$InteriorMasterServerForm$MainContent$pc$ctl02$address2'
+  city: 'ctl00$InteriorMasterContent$InteriorMasterServerForm$MainContent$pc$ctl02$city'
+  state: 'ctl00$InteriorMasterContent$InteriorMasterServerForm$MainContent$pc$ctl02$state'
+  zip: 'ctl00$InteriorMasterContent$InteriorMasterServerForm$MainContent$pc$ctl02$zip'
+  country: 'ctl00$InteriorMasterContent$InteriorMasterServerForm$MainContent$pc$ctl02$country'

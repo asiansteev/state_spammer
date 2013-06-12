@@ -1,5 +1,6 @@
 url: 'http://www.travelalaska.com/Planners/Planner.aspx'
-form_id: 'mainform'
+form_by: 'id'
+form: 'mainform'
 success: 'Thank you for your interest in Alaska. Your Alaska vacation planner should arrive in the mail within three weeks. While you wait please continue to browse our site.'
 state_form: 'full'
 country_abbr: 'full'

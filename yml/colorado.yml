@@ -1,0 +1,16 @@
+url: 'http://www.colorado.com/guide-order'
+form_by: 'id'
+form: 'ico-forms-guide-order-multi-form'
+success: "Your Colorado Vacation Guide will be mailed to you shortly."
+state_form: 'full'
+country_form: 'full'
+attrs:
+  first_name: 'first_name'
+  last_name: 'last_name'
+  email: 'email'
+  address: 'mailing_address'
+  address2: 'mailing_address2'
+  city: 'mailing_city'
+  state: 'mailing_state'
+  zip: 'mailing_zip'
+  country: 'mailing_country'

@@ -1,5 +1,6 @@
 url: 'http://www.alabama.travel/vacation-guide'
-form_id: 'new_vacation_guide_order'
+form_by: 'id'
+form: 'new_vacation_guide_order'
 success: 'Thanks for ordering!'
 state_form: 'abbr'
 country_form: 'full'
