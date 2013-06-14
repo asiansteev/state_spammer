@@ -1,0 +1,20 @@
+url: 'http://www.exploregeorgia.org/order-brochure/featured/free-2013-georgia-travel-guide-zombies'
+success: Thank you for Ordering a Brochure
+state_form: 'abbr'
+country_form: 'abbr'
+options:
+  body:
+    product_id: '514'
+    firstname: 'my_first_name'
+    lastname: 'my_last_name'
+    address: 'my_address'
+    address2: 'my_address2'
+    city: 'my_city'
+    country: 'my_country'
+    state: 'my_state'
+    region: ''
+    zip: 'my_zip'
+    email: 'my_email'
+    phone: 'my_phone'
+    referrer: '14'
+    agreetoterms: '1'
