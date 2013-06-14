@@ -1,0 +1,16 @@
+url: 'http://visitflorida.com/en-us/travel-guides.html'
+form_by: 'id'
+form: 'orderguideForm'
+success: "Thank you for your interest in visiting Florida."
+state_form: 'all caps'
+country_form: 'USA'
+check: 'pdfName_0'
+attrs:
+  first_name: 'firstName'
+  last_name: 'lastName'
+  email: 'email'
+  address: 'address'
+  city: 'city'
+  state: 'state'
+  zip: 'postalcode'
+  country: 'country'

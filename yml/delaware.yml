@@ -1,0 +1,15 @@
+url: 'http://www.visitdelaware.com/visitors/travel-guide/'
+form_by: 'name'
+form: 'frm_2'
+success: "You have successfully submitted your request for a Delaware Travel Guide."
+state_form: 'abbr - full'
+country_form: 'all caps'
+uncheck: 'Newsletter'
+attrs:
+  first_name: 'contact_fname'
+  last_name: 'contact_lname'
+  address: 'contact_addr1'
+  city: 'contact_city'
+  state: 'contact_state'
+  zip: 'contact_zip'
+  country: 'contact_country'
