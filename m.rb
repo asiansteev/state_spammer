@@ -7,15 +7,16 @@ include Carmen
 agent = Mechanize.new
 us = Country.named('United States')
 
-firstname = 'John'
-lastname = 'Smith'
-address1 = '123 Main St.'
+firstname = ''
+lastname = ''
+address1 = ''
 address2 = ''
-city = 'Lexington'
-state = 'KY'
-zip = '40505'
+city = ''
+# Two Char Abbr
+state = ''
+zip = ''
 country = 'United States'
-email = 'john@test.com'
+email = ''
 
 =begin
 p 'Maine'
